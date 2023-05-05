@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "The Guard Guardian TTGO",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"humid_test": "cpp",
+			"cmath": "cpp"
+		}
+	}
+}
